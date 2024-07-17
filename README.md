@@ -1,11 +1,11 @@
 # Amazon | e-commerce website clone
 
-This project is a partial functional yet non-responsive landing page of the Amazon.com, replicating the visual style of the same using only HTML & CSS.
+This UI project represents a partially functional yet non-responsive landing page of Amazon.com, replicating the visual style of the same using only HTML & CSS.
 
 ### Features
 
 - Clean and visually appealing design resembling the real Amazon e-commerce site.
-- Easy to understand beginner friendly code.
+- Easy to understand beginner-friendly code.
 
 **Feel free to:**
 
